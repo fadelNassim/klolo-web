@@ -1,8 +1,8 @@
 {
   "productName": "Blabla",
   "theme": {
-    "color": "red",
-    "isDark": true
+    "color": "Red",
+    "isDark": false
   },
   "heroSection": {
     "title": [
